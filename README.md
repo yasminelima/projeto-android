@@ -2,7 +2,7 @@
 
 <p>Projeto de Site com Tema Android criado no Cap. 17s Cursos de <strong>HTML5</strong> e <strong>CSS3</strong> das Plataformas:<br><br>
 🚀  Estudonauta<br>
-📺  Curso em Vídeo</p><br>
+📺  Curso em Vídeo</p>
 
 <h2><a href="https://yasminelima.github.io/projeto-android/" target="_blank">Link para Acesso</a></h2>
 
